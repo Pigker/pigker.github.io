@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 19:31:24 -0400</lastBuildDate>
     <atom:link href="https://pigker.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://pigker.github.io/about/</link>
+      <pubDate>Mon, 30 Sep 2024 19:31:24 -0400</pubDate>
+      <guid>https://pigker.github.io/about/</guid>
+      <description>&lt;p&gt;这是我的个人主页关于我自己的介绍。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Test Post</title>
       <link>https://pigker.github.io/posts/test/</link>
