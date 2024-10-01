@@ -16,6 +16,13 @@
       <description>&lt;p&gt;这是我的个人主页关于我自己的介绍。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Profile</title>
+      <link>https://pigker.github.io/profile/</link>
+      <pubDate>Mon, 30 Sep 2024 12:00:00 +0000</pubDate>
+      <guid>https://pigker.github.io/profile/</guid>
+      <description>&lt;h1 id=&#34;my-profile&#34;&gt;My Profile&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my profile page!&lt;/p&gt;&#xA;&lt;h2 id=&#34;detail-resume&#34;&gt;Detail Resume&lt;/h2&gt;&#xA;&lt;p&gt;You can view my detailed resume by clicking &lt;a href=&#34;resume.pdf&#34;&gt;Detail Resume&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Test Post</title>
       <link>https://pigker.github.io/posts/test/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
